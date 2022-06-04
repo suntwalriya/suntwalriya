@@ -8,4 +8,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a Basketball Player.(Point Guard)
 
-[Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suntwalriya&show_icons=true&theme=radical)
+[Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suntwalriya&theme=radical)
